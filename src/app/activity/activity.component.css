@@ -1,16 +1,8 @@
-.container-fluid{
-padding:2%;
-}
+
 .col {
   margin: 2%;
   font-family: 'Charm', cursive;
   font-size: large;
   color: dodgerblue;
-}
 
-h4{
-  font-family: 'Charm', cursive;
-}
-button{
-  float :right;
 }

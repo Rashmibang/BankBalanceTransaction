@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Transaction"
+    }
+  },
+  "defaultProject": "Transaction",
+  "cli": {
+    "analytics": "7674307b-df4c-4e3f-8a5e-fae351da5bb3"
+  }
 }
